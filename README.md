@@ -1,7 +1,6 @@
 # Mancala Game
-Student Name: Emily Chang
-Student Number: 1219592
-
+Emily Chang
+Readme file not done yet
 ## Description
 This is a Java implementation of the Mancala game. The game is designed to be interactive, allowing players to make moves, save and load games, change rules, and enjoy a graphical user interface.
 
