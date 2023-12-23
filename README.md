@@ -35,14 +35,10 @@ java -jar build/libs/GameUI.java
 ## Game Actions
 
 **Quit Game:**
-
-Players can exit the game at any point.  
+Players can exit the game at any point.    
 **Save/Load Game:**
-
-Implements successful saving and loading of game states.  
+Implements successful saving and loading of game states.    
 **Change Game Rules:**
-
-The GameRules class allows for dynamic rule changes.  
+The GameRules class allows for dynamic rule changes.    
 **Start New Game:**
-
 Players can start a new game at any time.
